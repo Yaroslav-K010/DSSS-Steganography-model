@@ -58,7 +58,7 @@ Where:
 ## Requirements
 
 * MATLAB (R2020+ recommended)
-* Signal Processing Toolbox (optional but useful)
+* Signal Processing Toolbox (optional)
 
 ---
 
