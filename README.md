@@ -23,29 +23,6 @@ The approach provides:
 
 ---
 
-## Project Structure
-
-```
-DSSS-Steganography-model/
-│
-├── src/
-│   ├── Main.m        # Embedding script
-│   ├── Analyze.m     # Signal analysis (SNR, comparison)
-│   └── Extract.m     # Message extraction
-│
-├── input/
-│   ├── original.wav  # Input audio container
-│   └── message.txt   # Message to embed
-│
-├── output/
-│   └── stego.wav     # Output audio with embedded data
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 ## Algorithm Description
 
 ### Embedding Process
