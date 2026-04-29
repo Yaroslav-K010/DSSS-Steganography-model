@@ -139,7 +139,6 @@ Displays:
 ## Future Improvements
 
 * Add GUI interface
-* Support stereo audio
 * Improve robustness against compression (MP3)
 * Implement adaptive embedding
 * Port to C++
